@@ -1,0 +1,1 @@
+# ado-java_sonar_test_coverage
