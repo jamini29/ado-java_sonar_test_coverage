@@ -1,1 +1,1 @@
-# ado-java_sonar_test_coverage
+# simple java application for maven with test coverage
